@@ -22,7 +22,7 @@ def main():
             print("Invalid IP address. Please try again.")
 
     threads = []
-    for port in range(1, 1025):  # Scanning well-known ports (1-1024)
+    for port in range(1, 65535):  # Scanning all ports
         t = threading.Thread(target=port_scan, args=(target, port))
         threads.append(t)
         t.start()
