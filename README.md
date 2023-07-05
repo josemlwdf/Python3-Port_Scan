@@ -35,6 +35,6 @@ The script creates multiple threads, each scanning a single port on the target I
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 
     This script was inspired by various online resources and tutorials on Python network programming.
