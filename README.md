@@ -19,7 +19,7 @@ Clone this repository to your local machine.
 Open a terminal or command prompt and navigate to the directory where the script is located.
 
 
-    cd path/to/port-scanner
+    cd Python3-Port_Scan
 
 Run the script.
 
