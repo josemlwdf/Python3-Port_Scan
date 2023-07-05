@@ -12,18 +12,18 @@ Python 3.x
 
 Clone this repository to your local machine.
 
-    ``git clone https://github.com/josemlwdf/Python3-Port_Scan.git``
+    git clone https://github.com/josemlwdf/Python3-Port_Scan.git
 
 ## Usage
 
 Open a terminal or command prompt and navigate to the directory where the script is located.
 
 
-    ``cd path/to/port-scanner``
+    cd path/to/port-scanner
 
 Run the script.
 
-    ``python port_scanner.py``
+    python port_scanner.py
 
 Enter the target IP address when prompted.
 
