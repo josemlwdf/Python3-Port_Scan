@@ -12,7 +12,7 @@ Prerequisites
 
     Clone this repository to your local machine.
 
-``git clone https://github.com/your_username/port-scanner.git``
+``git clone https://github.com/josemlwdf/Python3-Port_Scan.git``
 
 ## Usage
 
